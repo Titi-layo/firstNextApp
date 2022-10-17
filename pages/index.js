@@ -16,7 +16,7 @@ export default function Home() {
           Welcomeeeee to <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
-        <p>{process.env.NEXT_PUBLIC_TITIS_KEY}</p>
+        <p>This is just to test preview deployments</p>
         <p className={styles.description}>
           Get started by editing{" "}
           <code className={styles.code}>pages/index.js</code>
